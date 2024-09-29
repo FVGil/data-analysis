@@ -1,2 +1,2 @@
 # data-analysis
-EDA and ML
+Exploring the most common ML models
