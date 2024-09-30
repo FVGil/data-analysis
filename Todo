@@ -1,9 +1,10 @@
-add fetaures importance analysis -https://www.kaggle.com/code/aniketb31/mushroom-classification-100-accuracy-recall
+add fetaures importance analysis and create a dataset with less variables -https://www.kaggle.com/code/aniketb31/mushroom-classification-100-accuracy-recall
 
 use chisquare test to identify relationships with class
-(correlation might be wrong)
+(correlation makes no sense...save logic of heatmap yo ise later)
 
-add logic to chrck midsing values - 
+add logic to check midsing values - 
 https://www.kaggle.com/code/keremkabil/mushroom-classification
 
-validate the ctoss validation 
+validate the cross validation method
+ add conclusions - and next steps if needed
