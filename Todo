@@ -1,10 +1,4 @@
-add fetaures importance analysis and create a dataset with less variables -https://www.kaggle.com/code/aniketb31/mushroom-classification-100-accuracy-recall
 
-use chisquare test to identify relationships with class -https://mlexplained.blog/2023/01/23/how-to-calculate-correlation-among-categorical-variables/
-(correlation makes no sense...save logic of heatmap yo ise later)
-
-add logic to check midsing values - 
-https://www.kaggle.com/code/keremkabil/mushroom-classification
 
 validate the cross validation method
  add conclusions - and next steps if needed
