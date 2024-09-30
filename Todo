@@ -1,5 +1,9 @@
 add fetaures importance analysis -https://www.kaggle.com/code/aniketb31/mushroom-classification-100-accuracy-recall
 
-use k hogher than 1
+use chisquare test to identify relationships with class
+(correlation might be wrong)
+
+add logic to chrck midsing values - 
+https://www.kaggle.com/code/keremkabil/mushroom-classification
 
 validate the ctoss validation 
