@@ -1,4 +1,6 @@
 add to chisquare analysis - remove varaiables with groups lower than 5 rows..as it will skew the test
 use dummy variables for frature selection (instead of encoding)
+look at the feature selection here - 
+https://machinelearningmastery.com/feature-selection-with-categorical-data/
 validate the cross validation method
  add conclusions - and next steps if needed
