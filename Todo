@@ -1,5 +1,5 @@
 add to chisquare analysis - remove varaiables with groups lower than 5 rows..as it will skew the test
-use dummy variables for feature selection (instead of encoding)
+use dummy variables for feature selection (instead of encoding)  - usar cotovelo para decidir quantas incluir
 'https://www.geeksforgeeks.org/passing-categorical-data-to-sklearn-decision-tree/
 Label Encoding vs. One-Hot Encoding for Decision Trees
 Label encoding and one-hot encoding are two common techniques used to handle categorical data, and each has its considerations when applied to decision trees.
