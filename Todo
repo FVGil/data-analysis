@@ -1,5 +1,21 @@
 add to chisquare analysis - remove varaiables with groups lower than 5 rows..as it will skew the test
-use dummy variables for frature selection (instead of encoding)
+use dummy variables for feature selection (instead of encoding)
+'https://www.geeksforgeeks.org/passing-categorical-data-to-sklearn-decision-tree/
+Label Encoding vs. One-Hot Encoding for Decision Trees
+Label encoding and one-hot encoding are two common techniques used to handle categorical data, and each has its considerations when applied to decision trees.
+
+Label encoding involves assigning a unique integer to each category. This encoding can be suitable when there is an inherent ordinal relationship among the categories. For decision trees, label encoding may work well if the tree can naturally interpret the encoded values as representing an order or ranking. However, caution should be exercised when using label encoding with decision trees, as these algorithms might incorrectly assume ordinal relationships that don’t actually exist in the data.
+
+On the other hand, one-hot encoding creates binary columns for each category, representing the presence or absence of a category. This approach is valuable when there is no inherent order among the categories. Decision trees can effectively handle one-hot encoded data because they make binary decisions at each node, considering the presence or absence of a particular feature. One-hot encoding prevents the model from assuming any ordinal relationship between the categories, making it a safer choice when the categorical variables are nominal.
+
+Therefore, the choice between label encoding and one-hot encoding for decision trees depends on the nature of the categorical data.
+
+Conclusion
+In conclusion, label encoding and one-hot encoding both techniques are sufficient and can be used for handling categorical data in a Decision Tree Classifier using Python.
+'
+
+
+
 look at the feature selection here - 
 https://machinelearningmastery.com/feature-selection-with-categorical-data/
 validate the cross validation method
