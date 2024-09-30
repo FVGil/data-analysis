@@ -1,4 +1,4 @@
-
+add to chisquare analysis - remove varaiables with groups lower than 5 rows..as it will skew the test
 
 validate the cross validation method
  add conclusions - and next steps if needed
